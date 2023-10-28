@@ -1,0 +1,12 @@
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+E:\myProjects\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+E:\myProjects\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+E:\myProjects\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+E:\myProjects\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+E:\myProjects\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+E:\myProjects\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
